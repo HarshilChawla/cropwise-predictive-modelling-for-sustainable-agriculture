@@ -1,0 +1,26 @@
+Year
+Seasonal_Temperature (°C)
+Seasonal_Rainfall (mm)
+Fertilizer (kg/ha)
+Pesticide (kg/ha)
+Nitrogen_Medium_%
+Phosphorus_Medium_%
+Potassium_Low_%
+Organic_Carbon_High_%
+Organic_Carbon_Medium_%
+Organic_Carbon_Low_%
+pH_Alkaline_%
+pH_Acidic_%
+pH_Neutral_%
+EC_NonSaline_%
+EC_Saline_%
+Sulphur_Sufficient_%
+Sulphur_Deficient_%
+Iron_Sufficient_%
+Iron_Deficient_%
+Zinc_Sufficient_%
+Zinc_Deficient_%
+Boron_Sufficient_%
+Boron_Deficient_%
+Area (ha)
+Season_Rabi       
